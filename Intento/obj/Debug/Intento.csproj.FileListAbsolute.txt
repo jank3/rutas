@@ -1,0 +1,12 @@
+C:\Users\Pablo\Dev\Tsugi\Rutas\Intento\Intento\bin\Debug\Intento.exe.config
+C:\Users\Pablo\Dev\Tsugi\Rutas\Intento\Intento\bin\Debug\Intento.exe
+C:\Users\Pablo\Dev\Tsugi\Rutas\Intento\Intento\bin\Debug\Intento.pdb
+C:\Users\Pablo\Dev\Tsugi\Rutas\Intento\Intento\obj\Debug\Intento.csprojResolveAssemblyReference.cache
+C:\Users\Pablo\Dev\Tsugi\Rutas\Intento\Intento\obj\Debug\Intento.exe
+C:\Users\Pablo\Dev\Tsugi\Rutas\Intento\Intento\obj\Debug\Intento.pdb
+C:\Users\pcorrado\Desktop\PMC\Free\Rutas\Intento\Intento\bin\Debug\Intento.exe.config
+C:\Users\pcorrado\Desktop\PMC\Free\Rutas\Intento\Intento\obj\Debug\Intento.exe
+C:\Users\pcorrado\Desktop\PMC\Free\Rutas\Intento\Intento\obj\Debug\Intento.pdb
+C:\Users\pcorrado\Desktop\PMC\Free\Rutas\Intento\Intento\bin\Debug\Intento.exe
+C:\Users\pcorrado\Desktop\PMC\Free\Rutas\Intento\Intento\bin\Debug\Intento.pdb
+C:\Users\pcorrado\Desktop\PMC\Free\Rutas\Intento\Intento\obj\Debug\Intento.csprojResolveAssemblyReference.cache
