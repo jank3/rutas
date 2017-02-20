@@ -10,3 +10,9 @@ C:\Users\pcorrado\Desktop\PMC\Free\Rutas\Intento\Intento\obj\Debug\Intento.pdb
 C:\Users\pcorrado\Desktop\PMC\Free\Rutas\Intento\Intento\bin\Debug\Intento.exe
 C:\Users\pcorrado\Desktop\PMC\Free\Rutas\Intento\Intento\bin\Debug\Intento.pdb
 C:\Users\pcorrado\Desktop\PMC\Free\Rutas\Intento\Intento\obj\Debug\Intento.csprojResolveAssemblyReference.cache
+C:\Users\JoséAntonioJimenezRu\Source\Repos\rutas\Intento\bin\Debug\Intento.exe.config
+C:\Users\JoséAntonioJimenezRu\Source\Repos\rutas\Intento\obj\Debug\Intento.exe
+C:\Users\JoséAntonioJimenezRu\Source\Repos\rutas\Intento\obj\Debug\Intento.pdb
+C:\Users\JoséAntonioJimenezRu\Source\Repos\rutas\Intento\bin\Debug\Intento.exe
+C:\Users\JoséAntonioJimenezRu\Source\Repos\rutas\Intento\bin\Debug\Intento.pdb
+C:\Users\JoséAntonioJimenezRu\Source\Repos\rutas\Intento\obj\Debug\Intento.csprojResolveAssemblyReference.cache
